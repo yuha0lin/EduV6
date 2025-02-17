@@ -20,8 +20,8 @@ import (
 var (
 	version  = "5.29.0"
 	build    = "Custom"
-	codename = "V2Fly, a community-driven edition of V2Ray."
-	intro    = "A unified platform for anti-censorship."
+	codename = "EduV6 developing based on V2Fly."
+	intro    = "Welcome to use EduV6. This platform only for communication and learning."
 )
 
 // Version returns V2Ray's version as a string, in the form of "x.y.z" where x, y and z are numbers.

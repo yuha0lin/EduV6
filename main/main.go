@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	base.RootCommand.Long = "A unified platform for anti-censorship."
+	base.RootCommand.Long = "Welcome to use EduV6. This platform only for communication and learning."
 	base.RegisterCommand(commands.CmdRun)
 	base.RegisterCommand(commands.CmdVersion)
 	base.RegisterCommand(commands.CmdTest)
