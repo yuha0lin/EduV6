@@ -322,7 +322,7 @@ jobs:
       - name: Build Images
         id: build-image
         run: |
-          image=v2ray
+          image=eduv6
           tags=
 
           timestamp=$(date -d $TIMESTAMP +%s)
